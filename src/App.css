@@ -1,0 +1,40 @@
+.header-title{
+  color:white;
+  font-weight: 400;
+  font-size: 50px;
+}
+
+.header-image {
+    background-image: url("./img/back_0.jpg");
+
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center center !important;
+}
+
+.sub-title{
+  font-size: 28px;
+  line-height: 1;
+  color: #1e1e1e;
+  font-weight: bold;
+  display: block;
+  padding-left: 18px;
+  position: relative;
+  margin-bottom: 25px;
+}
+
+.introduction, .text{
+  color: #1e1e1e;
+  font-size: 16px;
+  line-height: 30px;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.source{
+  color: grey;
+}
+
+

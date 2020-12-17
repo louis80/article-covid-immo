@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/article-covid-immo/static/css/main.0ce411db.chunk.css",
+    "main.js": "/article-covid-immo/static/js/main.2de0cb28.chunk.js",
+    "main.js.map": "/article-covid-immo/static/js/main.2de0cb28.chunk.js.map",
+    "runtime-main.js": "/article-covid-immo/static/js/runtime-main.d3643062.js",
+    "runtime-main.js.map": "/article-covid-immo/static/js/runtime-main.d3643062.js.map",
+    "static/js/2.5457e6f2.chunk.js": "/article-covid-immo/static/js/2.5457e6f2.chunk.js",
+    "static/js/2.5457e6f2.chunk.js.map": "/article-covid-immo/static/js/2.5457e6f2.chunk.js.map",
+    "static/js/3.5e7e0cdb.chunk.js": "/article-covid-immo/static/js/3.5e7e0cdb.chunk.js",
+    "static/js/3.5e7e0cdb.chunk.js.map": "/article-covid-immo/static/js/3.5e7e0cdb.chunk.js.map",
+    "index.html": "/article-covid-immo/index.html",
+    "static/css/main.0ce411db.chunk.css.map": "/article-covid-immo/static/css/main.0ce411db.chunk.css.map",
+    "static/js/2.5457e6f2.chunk.js.LICENSE.txt": "/article-covid-immo/static/js/2.5457e6f2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/article-covid-immo/static/media/back_0.c6c951d1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3643062.js",
+    "static/js/2.5457e6f2.chunk.js",
+    "static/css/main.0ce411db.chunk.css",
+    "static/js/main.2de0cb28.chunk.js"
+  ]
+}
